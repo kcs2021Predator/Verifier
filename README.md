@@ -15,7 +15,7 @@ RaspberryPi4を使って体温とマスク着用判定を行います。
 AMG8833 Webカメラ or RaspberryPiカメラ 
 buzeer 色付きLED
 
-
+コンソールで以下の通りに出ていれば成功しています。
 ```
 \# i2cdetect -r -y 1
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
@@ -29,6 +29,16 @@ buzeer 色付きLED
 70: -- -- -- -- -- -- -- --
 ```
 
+以上出来たら次はインストールです。
+以下のコードをコンソール(時間がかかる事があります。）
+```
+$ git clone https://github.com/ForexRobotics/mask_camera.git
 
+$ cd mask_camera/docker
+
+$ sudo docker build -t fr/l4t-ml:1.0 .
+
+Q.終了するには？
+A.Qキーを押す事で終了できます。
 
 
