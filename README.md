@@ -56,4 +56,5 @@ $ sudo docker run -it --rm --net=host --runtime RaspberryPi --privileged --devic
 Q.終了するには？
 A.Qキーを押す事で終了できます。
 
+卒業研究　2021年02月16日
 
