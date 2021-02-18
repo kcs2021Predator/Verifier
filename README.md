@@ -1,5 +1,5 @@
 # Verifier
-<img src="https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
+<img src="https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
 
 
 ---
