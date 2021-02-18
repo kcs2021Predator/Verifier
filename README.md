@@ -12,25 +12,11 @@ Windwosショートカットなどを手の操作のみで実行が可能にな�
 * Start.batファイルを起動すると下記のライブラリが自動インストールされた後、起動します。
 * ユーザー名が日本語の場合うまく実行出来ない場合があります。その場合は[こちら](https://drive.google.com/file/d/1SdbgodBUb4rS_yBmIu9dtZhokksa6mTW/view?usp=sharing)からダウンロードしてください。
 
-## pip - Library
-* tensorflow 2.4.0 or Later
-* mediapipe 0.8.2 or Later
-* eel 0.14.0 or Later
-* pywin32　300 or Later
-* autopy　4.0.0 or Later
-* PyAutoGUI　0.9.52 or Later
-* OpenCV 3.4.2 or Later
-* scikit-learn 0.23.2 or Later
-* matplotlib 3.3.2 or Later
-# Reference
-* [MediaPipe](https://mediapipe.dev/)
-* [Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
-# Author
-* そらまん(https://twitter.com/AdiosSora)
-* バター風味<br>
-* kiba_shin<br>
-* GABA<br>
-* inada_shogo<br>
-* rufushiyo<br>
-# License
-FOCUS is under Apache v2 [Apache v2 license](LICENSE).
+ライブラリが無いと実行失敗します。(例:ModuleNotFoundError: No module named '***')
+コンソールを開き　以下の内容で実行します。
+
+cd 
+
+
+
+
