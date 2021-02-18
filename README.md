@@ -1,7 +1,7 @@
 # Verifier
 <img src="https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic"> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
 
-
+(https://user-images.githubusercontent.com/79233748/108295060-61a5d800-71da-11eb-8d5d-854f1858b0b5.jpeg
 ---
 # Verifier
 RaspberryPi4を使って体温とマスク着用判定を行います。
